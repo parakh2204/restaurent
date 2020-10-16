@@ -9,7 +9,7 @@
 
 .navbar-brand {
     color: #e8eefd!important;
-    font-weight: 600;
+    font-weight: 400;
     vertical-align: middle;
     margin-top: 5px;
     font-size: 28px;
@@ -20,7 +20,7 @@
     text-align: center;
     background: #ffd900;
     width : 100%;
-    padding: 0px;
+    padding: 5px;
     margin: 0px;
     
 }
@@ -59,7 +59,7 @@
         }
 
      .container-fluid .navbar-toggle  {
-         margin-right: 25px;
+         margin-right: 1rem;
      } 
     
     
